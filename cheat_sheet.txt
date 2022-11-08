@@ -26,3 +26,4 @@ git add: stage a file so that for can track it. (git add . will track all files 
 git commit: will commit the changes that are staged after invoking git add. (include -m" " to add a message describing the commit).
 git push: this command will push any changes to the file located on your device to Github. 
 git pull: this command will pull any changes to the repo and will apply them locally.
+git status: checks which files have changes that are to be committed.
