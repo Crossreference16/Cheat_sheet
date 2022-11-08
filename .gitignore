@@ -1,0 +1,2 @@
+# this file (.gitignore) will ignore any file types listed here when commits/pushes are being made to the repository.
+*.txt
