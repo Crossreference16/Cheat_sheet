@@ -9,7 +9,7 @@
 
 - ***`.`***    : show the current directory.
 
-- ***`. .`***  : shows the parent directory.
+- ***`..`***  : shows the parent directory.
 
 - ***`mkdir`***: creates a new directory. Add the name of the new directory after the command to name it. (Use underscores instead of spaces).
 - ***`history`***: shows last 10,000 commands.
@@ -27,7 +27,7 @@
 ## Git Commands:
 
 - ***`git init`***: will initialize a new repository for Github.
-- ***`git add`***: stage a file so that for can track it. (***`git add .`*** will track all files in the directory).
+- ***`git add`***: stage a file to be tracked. (***`git add .`*** will track all files in the directory).
 - ***`git commit`***: will commit the changes that are staged after invoking ***`git add`.*** (include `-m" "` to add a message describing the commit).
 - ***`git push`***: this command will push any changes to the file located on your device to Github. 
 - ***`git pull`***: this command will pull any changes to the repo and will apply them locally.
