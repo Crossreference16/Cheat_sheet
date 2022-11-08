@@ -1,4 +1,4 @@
-Terminal and Git Cheat Sheet (Week 1 Day 2)
+*Terminal and Git Cheat Sheet (Week 1 Day 2)
 
 
 Terminal commands:

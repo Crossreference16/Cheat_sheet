@@ -22,6 +22,7 @@
 - ***`rm`***: will delete a file. Add name of file at the end (e.g `rm cheat_sheet.txt`)
 - ***`rm - rf`***: will delete entire directory, bypassing any warning prompts. Add directory name at the end (e.g `rm -rf cheat_sheet`)
 
+---
 
 ## Git Commands:
 
