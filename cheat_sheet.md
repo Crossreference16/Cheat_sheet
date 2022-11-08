@@ -5,7 +5,7 @@
 
 - ***`pwd`***: will show you which location you are currently in.
 
-- ***`cd`***: change directory. This can take you to a folder if the name of another directory is added to the end of it. If `cd` is used by itself, it will take you to the home directory. (e.g cd documents).
+- ***`cd`***: change directory. This can take you to a folder if the name of another directory is added to the end of it. If `cd` is used by itself, it will take you to the home directory. (e.g `cd documents`).
 
 - ***`.`***    : show the current directory.
 
@@ -32,3 +32,4 @@
 - ***`git push`***: this command will push any changes to the file located on your device to Github. 
 - ***`git pull`***: this command will pull any changes to the repo and will apply them locally.
 - ***`git status`***: checks which files have changes that are to be committed.
+---
